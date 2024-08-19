@@ -10,8 +10,8 @@ let isResponseGenerating = false;
 
 
 // API config :
-const API_KEY = 'AIzaSyDBXwWHA8amQtLvUb359qpGGEg7FQ5km8o';
-const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
+const API_KEY = '';  // Add Your API Key here
+const API_URL = ``;  // Add Your API URL Key here
 
 
 const loadLocalstorageData = () => 
